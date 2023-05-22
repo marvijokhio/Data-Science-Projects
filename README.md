@@ -1,5 +1,8 @@
 # Data Science Projects
 
+## Malicious URL Detection using Machine Learning
+[Project Website](https://mjokhio12.wixsite.com/malurldet)
+
 ## Machine Learning and Natural Language Processing Projects
 
 [GitHub Issues Classification](https://github.com/marvijokhio/GitHub_Issues_Classification)
